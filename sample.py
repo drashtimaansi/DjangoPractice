@@ -1,0 +1,1 @@
+print('Starting the Django Practice')
